@@ -1,4 +1,4 @@
-class SS {
+class SecretSharing {
     constructor() {
         this.digitMap = new Map();
         this.initializeDigitMap();
